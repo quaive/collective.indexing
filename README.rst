@@ -1,3 +1,12 @@
+Warning
+=======
+
+You're looking at a Quaive-local fork of collective.indexing.
+This is only used to maintain internal releases in the 2.1.0a series,
+until our upstream PRs have been properly merged and released.
+
+Please don't push master to collective, it'll upset versions there.
+
 Introduction
 ============
 
@@ -134,4 +143,3 @@ kindly sponsored by `Elkjop`_.
   .. _`Enfold Systems`: http://www.enfoldsystems.com/
   .. __: http://tarekziade.wordpress.com/2008/01/20/snow-sprint-report-1-indexing/
   .. _`Elkjop`: http://www.elkjop.no/
-
