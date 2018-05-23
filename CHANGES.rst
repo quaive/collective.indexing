@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.1 (unreleased)
-----------------
+2.1.0a1 (2018-05-23)
+--------------------
 
 - reindexObjectSecurity operations are handled by the queue (#14).
   This fixes a bug with out-of-sync security indexes on Solr etc.
